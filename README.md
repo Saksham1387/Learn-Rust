@@ -83,13 +83,6 @@ Rust is a modern programming language that focuses on:
 - 🔄 Exploring traits and generics (in progress)
 - ⏳ Advanced topics like async programming and macros (upcoming)
 
-### Practice Projects
-- [Hello, World!](./projects/hello-world)
-- [Guess the Number Game](./projects/guess-the-number)
-- [Basic CLI Tool](./projects/cli-tool)
-- [To-Do App](./projects/to-do-app)
-- [Concurrency with Tokio](./projects/concurrency-tokio)
-
 ---
 
 ## 🤝 Contributing
